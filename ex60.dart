@@ -9,6 +9,6 @@ void main() {
   if (precisa2 > 0)
     print('Faltam $precisa2 bolinha(s)');
   else {
-    print('Amelia tem todas as bolinhas!');
+    print('Amelia tem todas bolinhas!');
   }
 }
