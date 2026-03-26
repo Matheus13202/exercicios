@@ -1,6 +1,4 @@
 import 'dart:io';
-import 'dart:math';
-
 void main() {
   //2497
   int experimento = int.parse(stdin.readLineSync()!);
